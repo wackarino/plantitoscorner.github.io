@@ -1,0 +1,29 @@
+	body {
+		background-image: url("../Proj/Images/bgwallpaper.jpg");
+		background-repeat: no-repeat;
+  		background-attachment: fixed;
+  		 background-size: 100% 100%;
+
+		}
+		.upper-texts{ font-family: monospace;color: white
+		}
+		body,h1,h2,h3,h4,h5 {font-family: 'Oswald', sans-serif; }
+	.container{
+		margin-left: 100%;
+		border: none;
+		color: 	#ffe77aff
+		padding: 10px 20px;
+		font-size: 20px;
+		font-family: "Oswald", sans-serif;
+		cursor: pointer;
+		margin: 10px;
+		transition: 0.8s;
+		position: relative;
+		}
+	.color{
+		font-family: sans-serif;	
+		color: 	#ffe77aff;
+		background-color: #2c5f2dff
+		}
+
+	
